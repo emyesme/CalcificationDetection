@@ -9,4 +9,6 @@ This project have 3 stages
 Image Processing techniques
 Machine Learning
 Deep Learning
+____________________
 
+Let's go to Florence!
