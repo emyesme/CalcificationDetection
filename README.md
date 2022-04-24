@@ -1,9 +1,14 @@
 # CalcificationDetection
 
-Advanced image processing project for calcification detection in mammograms
+Contributions by: Emily, Paola, Tacha, Zarin
+
+Advanced image processing project for calcification detection in mammograms.
 
 This project have 3 stages
 
 Image Processing techniques
 Machine Learning
 Deep Learning
+____________________
+
+Let's go to Florence!
