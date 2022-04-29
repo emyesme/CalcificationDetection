@@ -11,4 +11,9 @@ Machine Learning
 Deep Learning
 ____________________
 
-Let's go to Florence!
+Pipeline1 = 
+  Dehazing Dark Channel Prior with Guided Filter 
+  Dilation
+  Gaussian Blur
+  Difference of Hessian
+  GLCM
