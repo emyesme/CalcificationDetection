@@ -11,4 +11,6 @@ Machine Learning
 Deep Learning
 ____________________
 
-Let's go to Florence!
+partial pipeline 1: 0.58
+dehazing+doh+glcm : 0.65
+dehazing+doh+(haar+glcm): 0.55
